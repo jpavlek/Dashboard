@@ -11,8 +11,5 @@
         <file>CarControlStates.qml</file>
         <file>HelperFunctions.js</file>
         <file>GasControlStates.qml</file>
-        <file>StateOff.qml</file>
-        <file>StateOn.qml</file>
-        <file>gauge.qml</file>
     </qresource>
 </RCC>
