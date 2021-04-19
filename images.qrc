@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/DashBoard.png</file>
+        <file>Resources/Index.png</file>
+        <file>Resources/RearCameraView.jpg</file>
+    </qresource>
+</RCC>
