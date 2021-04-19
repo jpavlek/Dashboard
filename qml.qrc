@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DefaultValues.qml</file>
+        <file>DashboardBackground.qml</file>
+        <file>AnalogNeedle.qml</file>
+        <file>KeyInputController.qml</file>
+        <file>CarControlLogic.js</file>
+        <file>Constants.qml</file>
+        <file>Limits.qml</file>
+        <file>CarControlStates.qml</file>
+        <file>HelperFunctions.js</file>
+        <file>GasControlStates.qml</file>
+        <file>StateOff.qml</file>
+        <file>StateOn.qml</file>
+        <file>gauge.qml</file>
+    </qresource>
+</RCC>
